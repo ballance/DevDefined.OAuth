@@ -10,6 +10,7 @@ release/
 *.cache
 *.StyleCop
 $SSH_ENV
+.vs/
 
 /src/GlobalAssemblyInfo.cs
 .DS_Store
